@@ -1,7 +1,8 @@
 backend:
   name: github
   branch: master
-  repo: siddu-nc/perpetual-hedgehog
+  repo: siddu-nc/perpetual-hedgehog 
+media_folder: static/images
 public_folder: /images
 collections:
   - name: config
